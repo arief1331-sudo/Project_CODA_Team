@@ -132,3 +132,18 @@ We plan to utilize `XGBoost` or `Random Forest` to handle the severe class imbal
 * `time_since_last_transaction_minutes`
 
 **Target Evaluation Metrics:** Precision, Recall, F1-Score, and overall Fraud Uplift %.
+
+## 🔗 Resources
+Documentation
+GitHub Repository
+Interactive Dashboard
+
+## 🤝 Contributing
+This project is part of the CODA RMT 013 data engineering and analytics portfolio. For questions or collaboration:
+
+Author: Arief Bagus Nugraha, Paulus Marpaung, Dhias Renaldy, Nabilah Astiarini, Sinta Ahwalisa
+LinkedIn:: linkedin.com/in/ariefbn13
+LinkedIn:: linkedin.com/in/withpaulusmarpaung
+LinkedIn:: linkedin.com/in/dhiasrenaldy)
+LinkedIn: linkedin.com/in/sintaahwalisa
+LinkedIn: linkedin.com/in/nabilahastiarini
