@@ -137,6 +137,7 @@ We plan to utilize `XGBoost` or `Random Forest` to handle the severe class imbal
 Documentation
 GitHub Repository
 Interactive Dashboard
+```
 
 ## 🤝 Contributing
 This project is part of the CODA RMT 013 data engineering and analytics portfolio. For questions or collaboration:
