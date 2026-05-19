@@ -133,18 +133,21 @@ We plan to utilize `XGBoost` or `Random Forest` to handle the severe class imbal
 
 **Target Evaluation Metrics:** Precision, Recall, F1-Score, and overall Fraud Uplift %.
 
+---
+
 ## 🔗 Resources
-Documentation
-GitHub Repository
-Interactive Dashboard
-```
 
-## 🤝 Contributing
-This project is part of the CODA RMT 013 data engineering and analytics portfolio. For questions or collaboration:
+*   [GitHub Repository](https://github.com/arief1331-sudo/Project_CODA_Team)
+*   [Interactive Dashboard](https://datastudio.google.com/u/0/reporting/14a40871-255f-4995-9e22-883a2eb1a0b6/page/Z5WnF?s=iL5ZnlELsoA) 
 
-Author: Arief Bagus Nugraha, Paulus Marpaung, Dhias Renaldy, Nabilah Astiarini, Sinta Ahwalisa
-LinkedIn:: linkedin.com/in/ariefbn13
-LinkedIn:: linkedin.com/in/withpaulusmarpaung
-LinkedIn:: linkedin.com/in/dhiasrenaldy)
-LinkedIn: linkedin.com/in/sintaahwalisa
-LinkedIn: linkedin.com/in/nabilahastiarini
+---
+
+## 🤝 Contributing & Team
+
+This project is part of the **CODA-RMT-013** data engineering and analytics portfolio. For questions, feedback, or collaboration opportunities, feel free to reach out to the team:
+
+*   **Arief Bagus Nugraha** | [LinkedIn](https://linkedin.com/in/ariefbn13)
+*   **Paulus Marpaung** | [LinkedIn](https://linkedin.com/in/withpaulusmarpaung)
+*   **Dhias Renaldy** | [LinkedIn](https://linkedin.com/in/dhiasrenaldy)
+*   **Sinta Ahwalisa** | [LinkedIn](https://linkedin.com/in/sintaahwalisa)
+*   **Nabilah Astiarini** | [LinkedIn](https://linkedin.com/in/nabilahastiarini)
